@@ -154,7 +154,7 @@ paymentList.addEventListener('change', (e) => {
 });
 
 // Make Credit Card the default payment option on page load
-document.querySelector('option[value="credit card"]').setAttribute('selected', 'selected');
+document.querySelector('option[value="credit card"]').selected = 'selected';
 showPaymentOptionContainer(creditCardContainer);
 
 // Form Validation Functionality
