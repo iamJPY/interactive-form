@@ -1,9 +1,6 @@
 Interactive Form
 ================
 
-## View Demo
-[Demo for review](https://iamjpy.github.io/interactive-form/)
-
 ## Create and link a JavaScript file to index.html
 - [x] Create a JavaScript file inside the "js" folder and link it to index.html
 - [x] ~~If you're using jQuery, link index.html to the latest version of jQuery~~
