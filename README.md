@@ -3,7 +3,7 @@ Interactive Form
 
 ## Create and link a JavaScript file to index.html
 - [x] Create a JavaScript file inside the "js" folder and link it to index.html
-- [x] ~~If you're using jQuery, link index.html to the latest version of jQuery~~
+- [x] If you're using jQuery, link index.html to the latest version of jQuery.
 
 ## Set focus on the first text field
 - [x] When the page loads, give focus to the first text field
